@@ -1,0 +1,27 @@
+.div1{
+  text-align: center;
+  font-size: 50px;
+}
+
+button{
+  padding: 10px;
+  margin: 80px;
+  border-radius: 10px;
+  color: white;
+  background-color: black;
+}
+
+.btn {
+  padding: 50px;
+}
+
+
+.div{
+  border: 2px solid black;
+  height: 500px;
+  margin-top: 50px;
+  width: 500px;
+  margin-left:400px;
+  box-shadow: 10px 10px ;
+  border-radius: 10px;
+}
